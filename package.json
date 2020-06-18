@@ -9,7 +9,7 @@
   "dependencies": {},
   "devDependencies": {},
   "bin": {
-    "cowsay": "./cli.js",
-    "cowthink": "./cli.js"
+    "cowsay": "./index.js",
+    "cowthink": "./index.js"
   }
 }
