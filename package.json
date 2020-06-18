@@ -9,7 +9,6 @@
   "dependencies": {},
   "devDependencies": {},
   "bin": {
-    "cowsay": "./index.js",
-    "cowthink": "./index.js"
+    "tst": "./index.js"
   }
 }
