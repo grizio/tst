@@ -7,5 +7,9 @@
   "author": "Fabernovel",
   "license": "UNLICENSED",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "bin": {
+    "cowsay": "./cli.js",
+    "cowthink": "./cli.js"
+  }
 }
